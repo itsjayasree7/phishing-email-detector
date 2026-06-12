@@ -96,3 +96,11 @@ This tool is intended for **educational purposes only**.
 Do not use it to bypass email security systems or for any malicious purpose.
 
 ---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+*Built as part of a cybersecurity internship task.*
